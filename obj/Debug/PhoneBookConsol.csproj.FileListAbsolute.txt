@@ -1,0 +1,16 @@
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\PhoneBookConsol.exe.config
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\PhoneBookConsol.exe
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\PhoneBookConsol.pdb
+C:\Users\MY PC\source\repos\PhoneBookConsol\obj\Debug\PhoneBookConsol.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\PhoneBookConsol\obj\Debug\PhoneBookConsol.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\PhoneBookConsol\obj\Debug\PhoneBookConsol.exe
+C:\Users\MY PC\source\repos\PhoneBookConsol\obj\Debug\PhoneBookConsol.pdb
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\MY PC\source\repos\PhoneBookConsol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MY PC\source\repos\PhoneBookConsol\obj\Debug\PhoneBookConsol.csproj.CopyComplete
